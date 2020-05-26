@@ -1,0 +1,5 @@
+name: MobArena
+version: ${project.version}
+main: com.pmfrtt.mobarena.MobArena
+api-version: 1.13
+depend: [Core]
